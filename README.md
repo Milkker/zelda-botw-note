@@ -1,11 +1,11 @@
 # zelda-botw-note
 Nintendo switch zelda breath of the wild note
 
-#好用網站
+## 好用網站
 
   - [zeldamaps](https://zeldamaps.com)
   
-#攻略
+## 攻略
 
 - 新手教學
 
